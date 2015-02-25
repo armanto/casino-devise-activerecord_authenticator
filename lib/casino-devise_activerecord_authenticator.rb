@@ -1,0 +1,2 @@
+require 'casino/devise_activerecord_authenticator/version'
+require 'casino/devise_activerecord_authenticator'
